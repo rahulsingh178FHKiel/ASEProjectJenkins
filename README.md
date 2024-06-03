@@ -1,3 +1,3 @@
 # ASEproject
 
-Example commit to show workflow
+Github repository for the Jenkins CI Pipeline
